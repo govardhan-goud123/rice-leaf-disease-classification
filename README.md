@@ -60,6 +60,15 @@ The following models were trained and compared:
 
 Among the tested models, **MobileNetV2** performed the best with a test accuracy of **88.89%**.
 
+## 🔍 Sample Prediction
+
+The trained MobileNetV2 model predicted the following rice leaf disease:
+
+![Bacterial Leaf Blight Prediction](prediction-result.png)
+
+**Prediction:** Bacterial Leaf Blight  
+**Confidence:** 75.11%
+
 ## 👨‍💻 Author
 
 **Govardhan Goud**
